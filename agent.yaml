@@ -1,0 +1,11 @@
+spec_version: "0.1.0"
+name: knowledge-base-link-auditor
+version: 0.1.0
+description: "Checks caller-supplied link scan results for broken links, scan coverage, and named ownership."
+skills:
+  - knowledge-base-link-auditor-skill
+tools:
+  - audit-knowledge-base-link-auditor
+tags:
+  - content-operations
+  - evidence-driven
